@@ -1,12 +1,35 @@
+<p align="center">
+  <a href="https://github.com/he4rt/4noobs" target="_blank">
+    <img src="./images/header-4noobs.svg">
+  </a>
+</p>
+
+<h1 align="center">
+  <img src="./images/Perl.png" alt="perl">
+</h1>
+
 # <p align="center">**Tutorial de Perl para iniciantes na linguagem**
 
+<p align="center">
+    <a href="https://github.com/scriptprivate/perl4noobs/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/scriptprivate/perl4noobs/issues">Request Feature</a>
+  </p>
+</p>
+
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
+  </a>
+</p>
+
 ## ROADMAP
-- Introdução
-- Configuração de Ambiente
-- Visão Geral
-- Perl e Algoritmos (WIP)
-- Orientação a Objetos em Perl (WIP)
-- Cheatsheet
+- [Introdução](https://github.com/scriptprivate/perl4noobs/tree/main#introdu%C3%A7%C3%A3o)
+- [Configuração de Ambiente](https://github.com/scriptprivate/perl4noobs/tree/main#introdu%C3%A7%C3%A3o)
+- [Visão Geral](https://github.com/scriptprivate/perl4noobs/tree/main#vis%C3%A3o-geral)
+- [Perl e Algoritmos (WIP)](https://github.com/scriptprivate/perl4noobs/tree/main#wip-work-in-progress)
+- [Orientação a Objetos em Perl (WIP)](https://github.com/scriptprivate/perl4noobs/tree/main#wip-work-in-progress)
+- [Cheatsheet](/6-Cheatsheet/00-Cheatsheet.md)
 
 ## Introdução
 - O que é Perl?
