@@ -27,8 +27,6 @@
 - [Introdução](https://github.com/scriptprivate/perl4noobs/tree/main#introdu%C3%A7%C3%A3o)
 - [Configuração de Ambiente](https://github.com/scriptprivate/perl4noobs/tree/main#introdu%C3%A7%C3%A3o)
 - [Visão Geral](https://github.com/scriptprivate/perl4noobs/tree/main#vis%C3%A3o-geral)
-- [Perl e Algoritmos (WIP)](https://github.com/scriptprivate/perl4noobs/tree/main#wip-work-in-progress)
-- [Orientação a Objetos em Perl (WIP)](https://github.com/scriptprivate/perl4noobs/tree/main#wip-work-in-progress)
 - [Cheatsheet](/6-Cheatsheet/00-Cheatsheet.md)
 
 ## Introdução
@@ -62,40 +60,6 @@
 - [Strings e Ordenação](/3-Geral/12-Strings-e-Ordencao.md)
 - [Gerenciamento de Processos](/3-Geral/13-Gerenciamento-de-Processos.md)
 
-## WIP (Work In Progress)
-
-### Algoritmos em Perl
-  - Estruturas de Dados Básicas
-  - Estruturas de Dados Avançadas
-  - Ordenação
-  - Busca
-  - Sets
-  - Matrizes
-  - Grafos
-  - Strings
-  - Algoritmos Geométricos
-  - Sistemas Numéricos
-  - Teoria dos Números
-  - Criptografia
-  - Probabilidade
-  - Análise Numérica
-
-### Perl Orientado a Objetos
-  - Introdução à Orientação a Objetos
-  - O que você precisa saber de Perl para Perl Orientado a Objetos
-  - Começando à Orientar Objetos 
-  - Arrays e Escalares como Objetos associados à Classes
-  - Associando outras coisas como Objetos à Classes
-  - Herança
-  - Polimorfismo
-  - Automatizando Criação de Classes
-  - Vinculando à um Objeto definido pelo usuário
-  - Sobrecarga de Operador
-  - Encapsulamento
-  - Genericidade
-  - Despacho Múltiplo
-  - Objetos Persistentes
-
 ## <p align="center">**Autor**
 
 <p align="center"><b>privatescript</b></p>
@@ -111,8 +75,7 @@
 
 Este tutorial sobre Perl para iniciantes na linguagem foi inspirou-se nos seguintes livros:
 - **"Programming Perl"** - Escrito por Larry Wall, Tom Christiansen e Jon Orwant. Este é o livro clássico sobre Perl, também conhecido como "Camel Book". Ele serviu como uma referência fundamental para o desenvolvimento e compreensão da linguagem Perl.
-- **"Mastering Algorithms with Perl"** - Escrito por Jon Orwant, Jarkko Hietaniemi e John Macdonald. Este livro explora a aplicação de algoritmos em Perl e fornece uma sólida base para entender como usar algoritmos eficientes na programação Perl.
-- **"Objected Oriented Perl"** - Escrito por Damian Conway. Este livro concentra-se na programação orientada a objetos em Perl, abordando conceitos avançados e práticas recomendadas relacionadas à orientação a objetos em Perl.
+- **"Learning Perl"** - Escrito por Randal L. Schwartz, Tom Phoenix e brian d foy. Também conhecido como "Llama Book", este livro é uma introdução abrangente e acessível ao Perl, adequada para iniciantes que desejam aprender a linguagem desde o início.
 
 Estes livros são fontes valiosas para qualquer pessoa interessada em aprender Perl e aprofundar seus conhecimentos em algoritmos e programação orientada a objetos. Este tutorial visa sintetizar e apresentar informações relevantes dessas fontes, tornando-as acessíveis a iniciantes na linguagem Perl.
 
