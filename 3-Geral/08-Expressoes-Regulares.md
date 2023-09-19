@@ -355,7 +355,7 @@ if ($texto =~ /(?<quantidade>\d+) (?<item>\w+)/) {
 
 #### As Variáveis de Combinação Automáticas
 
-O Perl fornece três variáveis automáticas de combinação: $&, $`, e $'. Elas contêm partes da string correspondida por um padrão de expressão regular.
+O Perl fornece três variáveis automáticas de combinação: ```$&, $`, e $'```. Elas contêm partes da string correspondida por um padrão de expressão regular.
 
 Exemplo:
 ```perl
