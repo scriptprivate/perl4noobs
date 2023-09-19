@@ -71,14 +71,14 @@
 
 <p align="center">&nbsp&nbsp&nbsp<b>Made with 💜</b></p>
 
-## Créditos e Referências Bibliográficas
+## Referências Bibliográficas
 
-Este tutorial sobre Perl para iniciantes na linguagem foi inspirou-se nos seguintes livros:
+Este tutorial sobre Perl para iniciantes na linguagem inspirou-se nos seguintes livros:
 - **"Programming Perl"** - Escrito por Larry Wall, Tom Christiansen e Jon Orwant. Este é o livro clássico sobre Perl, também conhecido como "Camel Book". Ele serviu como uma referência fundamental para o desenvolvimento e compreensão da linguagem Perl.
 - **"Learning Perl"** - Escrito por Randal L. Schwartz, Tom Phoenix e brian d foy. Também conhecido como "Llama Book", este livro é uma introdução abrangente e acessível ao Perl, adequada para iniciantes que desejam aprender a linguagem desde o início.
 
-Estes livros são fontes valiosas para qualquer pessoa interessada em aprender Perl e aprofundar seus conhecimentos em algoritmos e programação orientada a objetos. Este tutorial visa sintetizar e apresentar informações relevantes dessas fontes, tornando-as acessíveis a iniciantes na linguagem Perl.
+Estes livros são fontes valiosas para qualquer pessoa interessada em aprender Perl. Este tutorial visa sintetizar e apresentar informações relevantes dessas fontes, tornando-as acessíveis a iniciantes na linguagem Perl.
 
 ---
 
-*Observação: Este tutorial de Perl é destinado a iniciantes na linguagem. Ele fornece uma introdução ao Perl, orientações de configuração do ambiente e uma visão geral dos principais recursos e conceitos da linguagem. Além disso, também aborda a relação do Perl com algoritmos, fornecendo exemplos de estruturas de dados e algoritmos comumente utilizados. O objetivo deste tutorial é fornecer uma base sólida para que os iniciantes possam começar a desenvolver em Perl e explorar seu potencial em diversas áreas de programação.*
+*Observação: Este tutorial de Perl é destinado a iniciantes na linguagem. Ele fornece uma introdução ao Perl, orientações de configuração do ambiente e uma visão geral dos principais recursos e conceitos da linguagem. O objetivo deste tutorial é fornecer uma base sólida para que os iniciantes possam começar a desenvolver em Perl e explorar seu potencial em diversas áreas de programação.*
