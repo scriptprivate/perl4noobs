@@ -27,7 +27,7 @@
 - [Introdução](https://github.com/scriptprivate/perl4noobs/tree/main#introdu%C3%A7%C3%A3o)
 - [Configuração de Ambiente](https://github.com/scriptprivate/perl4noobs/tree/main#introdu%C3%A7%C3%A3o)
 - [Visão Geral](https://github.com/scriptprivate/perl4noobs/tree/main#vis%C3%A3o-geral)
-- [Cheatsheet](/6-Cheatsheet/00-Cheatsheet.md)
+- [Cheatsheet](/4-Cheatsheet/00-Cheatsheet.md)
 
 ## Introdução
 - [O que é Perl?](/1-Introducao/00-Introducao.md#o-que-é-perl)
