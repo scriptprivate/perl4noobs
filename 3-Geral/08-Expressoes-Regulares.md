@@ -195,7 +195,7 @@ if ("123" =~ /\D/) {
 }
 ```
 
-## Corresponder com Expressões Regulares
+## Correspondência com Expressões Regulares
 
 ### Correspondências com m//
 
